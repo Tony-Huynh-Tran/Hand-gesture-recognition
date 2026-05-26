@@ -1,7 +1,7 @@
 # 🤟 Hand Gesture Recognition – Nhận Diện Cử Chỉ Tay
 
 > Đồ án môn **Xử Lý Ảnh** – Khoa Điện – Điện Tử  
-> Trường Đại học Công Nghệ Kỹ Thuật TP. Hồ Chí Minh (HUTECH)  
+> Trường Đại học Công Nghệ Kỹ Thuật TP. Hồ Chí Minh (HCM-UTE)  
 > Giảng viên hướng dẫn: **TS. Dương Minh Thiện**
 
 ---
@@ -168,5 +168,5 @@ MediaPipe trích xuất **21 điểm keypoint** trên bàn tay (khớp ngón, đ
 
 ## 📄 Giấy phép
 
-Dự án được thực hiện cho mục đích học tập và nghiên cứu tại HUTECH.  
+Dự án được thực hiện cho mục đích học tập và nghiên cứu tại HCM-UTE.  
 Tháng 01 năm 2026.
